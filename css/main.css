@@ -27,9 +27,6 @@ p {
 
 /* NAV */
 
-.nav-cus {
-
-}
 
 .top-bar {
 	background-color: #FFFAF9;
@@ -53,7 +50,8 @@ p {
 }
 
 .top-bar-section li:not(.has-form) a:not(.button) {
-		background-color: green;
+		background-color: #FFFAF9;
+		color: #181818;
 	}
 
 
