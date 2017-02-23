@@ -10,11 +10,11 @@ h3 {
 }
 
 p {
-	font-family: 'courier', sans-serif;
+	font-family: 'Inconsolata', monospace;
 }
 
 .top-bar-section ul li > a {
-	font-family: 'courier', sans-serif;
+	font-family: 'Inconsolata', monospace;
 	font-size: 1em;
 }
 
@@ -136,6 +136,14 @@ p {
 
 
 /* FOOTER */
+
+.fa {
+	margin-right: 1.2em;
+}
+
+.social {
+	margin-top: 1.2em;
+}
 
 .footer {
 	background-color: #E9E9F2;
